@@ -382,5 +382,5 @@ Entrega:
    - Prompts diseñados
    - Explicación breve de cada prompt
 2. Código fuente en Java 17
-   - 
+   - https://github.com/mstivenmendez/PromtJava.git
 3. Archivo JSON generado por el programa
